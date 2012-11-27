@@ -1,0 +1,2 @@
+class SayHelloController < ApplicationController
+end
